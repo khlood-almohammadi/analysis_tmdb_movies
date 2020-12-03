@@ -61,3 +61,11 @@ I will pose a set of questions that help organize theories of data analysis
 
 5-The total comedy films that were shot from 1960 to 2015 are 3433 comedy producers, and we notice a leap in the comedy industry in the world of cinema, as from 1960 to 1999 only 1411 previous films were shot. While in the new millennium "2000-2015", 2022 was filmed
 
+
+
+
+
+# Limitations
+
+In the first step, while reading the data, I noticed a number of missing data. Which may affect the sample, I did not find that the option to fill in the data with the average value is a correct option, as a large number of films will have the same value, which will affect the overall statistics, so I preferred to delete them so that the statistics are more correct.
+
