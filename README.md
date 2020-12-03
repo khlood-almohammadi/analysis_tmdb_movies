@@ -69,3 +69,10 @@ I will pose a set of questions that help organize theories of data analysis
 
 In the first step, while reading the data, I noticed a number of missing data. Which may affect the sample, I did not find that the option to fill in the data with the average value is a correct option, as a large number of films will have the same value, which will affect the overall statistics, so I preferred to delete them so that the statistics are more correct.
 
+
+
+# * References :
+
+1- Use the matplotlib library for charts 
+[HERE](https://matplotlib.org/3.3.2/index.html)
+
