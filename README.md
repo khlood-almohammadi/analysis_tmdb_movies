@@ -46,3 +46,18 @@ I will pose a set of questions that help organize theories of data analysis
 11- How many movies were made and produced under each genre ?
 
 12- In the years of the new millennium, what is the role of comedy in filmmaking?
+
+
+
+# Conclusions:
+
+1-Regarding revenue: In 2009, AVATAR achieved an estimated revenue of 2781505847. Whereas in 2015, "Star Wars: The Force Awakens" achieved second place, if the movie Avatar scored a difference 713327622.
+
+2-In 2010, The Warrior's Way culminated in massive material losses, incurring financial losses of 41,3912,431 It is an estimated loss for every dollar spent from the budget, a profit of about 0.026 cents is obtained
+
+3-The wonderful director christopher_nolan has a visionary eye and a charming touch in filmmaking. With a budget estimated at 150,000,000 in 2005, he was able to achieve profits of 224218673, meaning that every dollar spent was recovered 249%.
+
+4-In 2009, director James_cameron broke the profit barrier in the film industry, managing to set a record high in profits. For every dollar spent in the budget they are returned in profits of 1173% and that's really crazy, Knowing that the lowest percentage of profits recorded was for the 1994 film True Lies, where it was = 329% for every dollar spent, " the profit rate is very high with the rest of the films of the 1990s."
+
+5-The total comedy films that were shot from 1960 to 2015 are 3433 comedy producers, and we notice a leap in the comedy industry in the world of cinema, as from 1960 to 1999 only 1411 previous films were shot. While in the new millennium "2000-2015", 2022 was filmed
+
