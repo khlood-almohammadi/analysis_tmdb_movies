@@ -6,6 +6,7 @@ Choose one of Udacity's curated datasets and investigate it using NumPy and pand
 Use the Project Rubric to review our project.
 - [rubrics](https://review.udacity.com/#!/rubrics/107/view)
 ..
+..
 # Submission
 ## What to include in here : 
 A PDF or HTML file containing our analysis. This file should include:
